@@ -1,0 +1,19 @@
+{
+    "name": "marc/laracasts",
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "authors": [
+        {
+            "name": "Imac-marc",
+            "email": "marc.arnoult@hotmail.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Marc\\": "src/"
+        }
+    },
+
+    "require": {}
+}
